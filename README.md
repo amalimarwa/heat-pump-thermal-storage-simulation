@@ -11,3 +11,11 @@
 
 ### Tank Temperature (On/Off Control)
 ![Tank Temperature](figures/Tank_Temp.png)
+
+## Future Improvements
+
+- Implement PID control instead of On/Off control
+- Include tank heat losses to ambient
+- Simulate multi-day operation
+- Add seasonal performance evaluation (SCOP)
+- Integrate real weather dataset input
