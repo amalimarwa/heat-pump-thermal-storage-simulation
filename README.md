@@ -1,13 +1,13 @@
 ## Example Results
 
 ### Outdoor Temperature Profile
-![Outdoor Temperature](figures/outdoor_temp.png)
+![Outdoor Temperature](figures/Outdoor_Temp.png)
 
 ### Heat Pump COP
-![COP](figures/cop.png)
+![COP](figures/COP.png)
 
 ### Heating Load & Regression
-![Load Forecast](figures/load_forecast.png)
+![Load Forecast](figures/Load_Forecast.png)
 
 ### Tank Temperature (On/Off Control)
-![Tank Temperature](figures/tank_temp.png)
+![Tank Temperature](figures/Tank_Temp.png)
